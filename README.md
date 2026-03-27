@@ -1,2 +1,2 @@
 # .github
-Club description and quick setup to start coding with us in optimal conditions!
+Don't add any code here lol, this is just necessary to show important info on the main page of the organization!
